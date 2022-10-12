@@ -1,2 +1,3 @@
 # profile
-Professional profile, with job information
+
+Professional profile with job information.
