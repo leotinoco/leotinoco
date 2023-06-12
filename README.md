@@ -1,10 +1,17 @@
 # ![https://chibcha.club](https://github.com/leotinoco/leotinoco/blob/main/img/icono.png) Hola, mi nombre es Leonardo Tinoco 👋
 
-### Freelance desarrollador web Páginas & Aplicaciones
+### Freelance desarrollador de Páginas & Aplicaciones WEB
+
+Me gustan los retos, solucionar a través del desarrollo o el uso de herramientas tecnológicas los desafíos ante mí. He realizado páginas web durante los últimos 7 años en html, CSS, Java Script, PHP, MySQL, Bootstrap a la vez que me he inmergido en los 2 más recientes en el CMS WordPress.
 
 ![https://github.com/mouredev](https://github.com/leotinoco/leotinoco/blob/main/img/paraGitHub.webp)
 
-Me gustan los retos, solucionar a través del desarrollo o el uso de herramientas tecnológicas los desafíos ante mí. He realizado páginas web durante los últimos 7 años en html, CSS, Java Script, PHP, MySQL, Bootstrap a la vez que me he inmergido en los 2 más recientes en el CMS WordPress. He trabajado durante más de 16 años con costos ABC para empresas de servicios públicos, Auditorías Externas de Gestión y Resultados, utilizando siempre la tecnología para la creación de herramientas que hacen más eficiente mi trabajo. He desarrollado una herramienta para la implementación de Estudios de Riesgos Psicosociales en el trabajo. Apasionando por el aprendizaje, estoy aprendiendo mucho más actualmente en la UNAD y en Platzi.
+He trabajado durante más de 16 años con costos ABC y Auditorías Externas de Gestión y Resultados para empresas del de Servicios Públicos, utilizando siempre la tecnología para la creación de herramientas que hacen más eficiente mi trabajo. Con bagaje en la realización de informes gerenciales para la toma de decisiones y el paso por distintas empresas de telecomunicaciones, grandes superficies y asesoras. He desarrollado competencias importantes para aportar soluciones efectivas en los distintos desarrollos.
+
+## Desarrollos activos
+
+Estudios de Riesgos Psicosociales en el trabajo
+Herramienta para el levantamiento, análisis y clasificación de Costos ABC en empresas de servicios públicos domiciliarios
 
 ## Tecnologías:
 
