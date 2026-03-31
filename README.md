@@ -12,7 +12,7 @@
 
 ---
 
-![Portada](https://raw.githubusercontent.com/leotinoco/leotinoco/main/img/PortadaGitHub.avif)
+<img src="https://raw.githubusercontent.com/leotinoco/leotinoco/main/img/PortadaGitHub.avif" width="100%" alt="Portada Leonardo Tinoco" />
 
 ---
 
@@ -99,9 +99,10 @@ En mi GitHub encontrarás el reflejo de esta trayectoria: un **laboratorio const
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotinoco&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&cache_seconds=1800)](https://github.com/leotinoco)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leotinoco&theme=github_dark)](https://github.com/leotinoco)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leotinoco&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800)](https://github.com/leotinoco)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leotinoco&theme=github_dark)](https://github.com/leotinoco)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leotinoco&theme=github_dark)](https://github.com/leotinoco)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leotinoco&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/leotinoco)
 
