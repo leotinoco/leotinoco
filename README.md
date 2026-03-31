@@ -12,7 +12,7 @@
 
 ---
 
-![Portada](https://github.com/leotinoco/leotinoco/blob/main/img/PortadaGitHub.avif)
+![Portada](https://raw.githubusercontent.com/leotinoco/leotinoco/main/img/PortadaGitHub.avif)
 
 ---
 
@@ -62,9 +62,19 @@ Actualmente, dedico gran parte de mi tiempo a investigar, testear e implementar 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-### Inteligencia Artificial
+### Inteligencia Artificial & Herramientas IA
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antigravity.dev/)
+[![TRAE](https://img.shields.io/badge/TRAE-0EA5E9?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://trae.ai/)
+[![Qwen](https://img.shields.io/badge/Qwen-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)](https://qwen.ai/)
+[![Ollama](https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+[![LM Studio](https://img.shields.io/badge/LM_Studio-8B5CF6?style=for-the-badge&logo=artifacthub&logoColor=white)](https://lmstudio.ai/)
+[![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://grok.x.ai/)
+
+> *...entre muchas otras.*
 
 </div>
 
@@ -89,9 +99,11 @@ En mi GitHub encontrarás el reflejo de esta trayectoria: un **laboratorio const
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotinoco&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leotinoco&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&cache_seconds=1800)](https://github.com/leotinoco)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leotinoco&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leotinoco&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800)](https://github.com/leotinoco)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=leotinoco&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/leotinoco)
 
 </div>
 
