@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![icono](https://github.com/leotinoco/leotinoco/blob/main/img/icono.png) Hola, soy Leonardo 👋
+# Hola, soy Leonardo 👋
 
 **Traduciendo 25 años de experiencia multisectorial en soluciones tecnológicas de alto impacto.**
 
